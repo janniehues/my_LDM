@@ -1,0 +1,1 @@
+In this repository, we provide the dataloader file and the image generation script that was used in the publication [Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance](https://www.sciencedirect.com/science/article/abs/pii/S0010482524004943?via%3Dihub).
